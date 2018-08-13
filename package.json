@@ -1,0 +1,26 @@
+{
+  "name": "trukind",
+  "version": "1.0.0",
+  "description": "company network",
+  "main": "server.js",
+  "dependencies": {
+    "bootstrap": "^4.1.1",
+    "browser-sync": "^2.24.5",
+    "express": "^4.16.3",
+    "gulp": "^3.9.1",
+    "gulp-stylus": "^2.7.0",
+    "jquery": "^3.3.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "keywords": [
+    "trukind",
+    "tk",
+    "真善科技"
+  ],
+  "author": "trukind",
+  "license": "ISC"
+}
